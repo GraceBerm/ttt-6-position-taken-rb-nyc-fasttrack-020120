@@ -1,4 +1,4 @@
-def position_taken?(array)
+def position_taken?
   if array[index] == "  " || " " || nil
     return false
   else
