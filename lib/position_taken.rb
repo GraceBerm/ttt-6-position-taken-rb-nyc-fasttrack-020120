@@ -4,3 +4,4 @@ def position_taken?(array)
   else
     return true
 end
+end
